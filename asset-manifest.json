@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/image-carousel/static/css/main.ead2e230.css",
+    "main.js": "/image-carousel/static/js/main.fa6e1ceb.js",
+    "static/js/787.60b2ed21.chunk.js": "/image-carousel/static/js/787.60b2ed21.chunk.js",
+    "static/media/img3.jpg": "/image-carousel/static/media/img3.6eb1d35bd04eba3bd681.jpg",
+    "static/media/img2.jpg": "/image-carousel/static/media/img2.4682435ed5f32af56be6.jpg",
+    "static/media/img1.jpg": "/image-carousel/static/media/img1.1813e30f2a7711eb2b1b.jpg",
+    "static/media/next.png": "/image-carousel/static/media/next.109c6ea98286ea4d4d58.png",
+    "static/media/prev.png": "/image-carousel/static/media/prev.c6bc00025850a3d7d764.png",
+    "index.html": "/image-carousel/index.html",
+    "main.ead2e230.css.map": "/image-carousel/static/css/main.ead2e230.css.map",
+    "main.fa6e1ceb.js.map": "/image-carousel/static/js/main.fa6e1ceb.js.map",
+    "787.60b2ed21.chunk.js.map": "/image-carousel/static/js/787.60b2ed21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead2e230.css",
+    "static/js/main.fa6e1ceb.js"
+  ]
+}
